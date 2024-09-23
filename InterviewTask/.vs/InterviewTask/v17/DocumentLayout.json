@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\thetourguy\\InterviewTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{841CFDBD-4632-40D9-9A63-9613416C558A}|InterviewTask\\InterviewTask.csproj|c:\\thetourguy\\interviewtask\\interviewtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841CFDBD-4632-40D9-9A63-9613416C558A}|InterviewTask\\InterviewTask.csproj|solutionrelative:interviewtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841CFDBD-4632-40D9-9A63-9613416C558A}|InterviewTask\\InterviewTask.csproj|c:\\thetourguy\\interviewtask\\interviewtask\\models\\searchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841CFDBD-4632-40D9-9A63-9613416C558A}|InterviewTask\\InterviewTask.csproj|solutionrelative:interviewtask\\models\\searchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841CFDBD-4632-40D9-9A63-9613416C558A}|InterviewTask\\InterviewTask.csproj|c:\\thetourguy\\interviewtask\\interviewtask\\dataproviders\\models\\thetourguymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841CFDBD-4632-40D9-9A63-9613416C558A}|InterviewTask\\InterviewTask.csproj|solutionrelative:interviewtask\\dataproviders\\models\\thetourguymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841CFDBD-4632-40D9-9A63-9613416C558A}|InterviewTask\\InterviewTask.csproj|c:\\thetourguy\\interviewtask\\interviewtask\\dataproviders\\models\\thebigguymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841CFDBD-4632-40D9-9A63-9613416C558A}|InterviewTask\\InterviewTask.csproj|solutionrelative:interviewtask\\dataproviders\\models\\thebigguymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841CFDBD-4632-40D9-9A63-9613416C558A}|InterviewTask\\InterviewTask.csproj|c:\\thetourguy\\interviewtask\\interviewtask\\dataproviders\\models\\someotherguymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841CFDBD-4632-40D9-9A63-9613416C558A}|InterviewTask\\InterviewTask.csproj|solutionrelative:interviewtask\\dataproviders\\models\\someotherguymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841CFDBD-4632-40D9-9A63-9613416C558A}|InterviewTask\\InterviewTask.csproj|c:\\thetourguy\\interviewtask\\interviewtask\\dataproviders\\models\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841CFDBD-4632-40D9-9A63-9613416C558A}|InterviewTask\\InterviewTask.csproj|solutionrelative:interviewtask\\dataproviders\\models\\productresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841CFDBD-4632-40D9-9A63-9613416C558A}|InterviewTask\\InterviewTask.csproj|c:\\thetourguy\\interviewtask\\interviewtask\\dataproviders\\contract\\idataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841CFDBD-4632-40D9-9A63-9613416C558A}|InterviewTask\\InterviewTask.csproj|solutionrelative:interviewtask\\dataproviders\\contract\\idataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841CFDBD-4632-40D9-9A63-9613416C558A}|InterviewTask\\InterviewTask.csproj|c:\\thetourguy\\interviewtask\\interviewtask\\dataproviders\\implementation\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841CFDBD-4632-40D9-9A63-9613416C558A}|InterviewTask\\InterviewTask.csproj|solutionrelative:interviewtask\\dataproviders\\implementation\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841CFDBD-4632-40D9-9A63-9613416C558A}|InterviewTask\\InterviewTask.csproj|c:\\thetourguy\\interviewtask\\interviewtask\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841CFDBD-4632-40D9-9A63-9613416C558A}|InterviewTask\\InterviewTask.csproj|solutionrelative:interviewtask\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841CFDBD-4632-40D9-9A63-9613416C558A}|InterviewTask\\InterviewTask.csproj|c:\\thetourguy\\interviewtask\\interviewtask\\bll\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841CFDBD-4632-40D9-9A63-9613416C558A}|InterviewTask\\InterviewTask.csproj|solutionrelative:interviewtask\\bll\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841CFDBD-4632-40D9-9A63-9613416C558A}|InterviewTask\\InterviewTask.csproj|c:\\thetourguy\\interviewtask\\interviewtask\\bll\\implementation\\tourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841CFDBD-4632-40D9-9A63-9613416C558A}|InterviewTask\\InterviewTask.csproj|solutionrelative:interviewtask\\bll\\implementation\\tourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841CFDBD-4632-40D9-9A63-9613416C558A}|InterviewTask\\InterviewTask.csproj|c:\\thetourguy\\interviewtask\\interviewtask\\bll\\contract\\itourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841CFDBD-4632-40D9-9A63-9613416C558A}|InterviewTask\\InterviewTask.csproj|solutionrelative:interviewtask\\bll\\contract\\itourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841CFDBD-4632-40D9-9A63-9613416C558A}|InterviewTask\\InterviewTask.csproj|c:\\thetourguy\\interviewtask\\interviewtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{841CFDBD-4632-40D9-9A63-9613416C558A}|InterviewTask\\InterviewTask.csproj|solutionrelative:interviewtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TheTourGuyModel.cs",
+              "DocumentMoniker": "C:\\thetourguy\\InterviewTask\\InterviewTask\\DataProviders\\Models\\TheTourGuyModel.cs",
+              "RelativeDocumentMoniker": "InterviewTask\\DataProviders\\Models\\TheTourGuyModel.cs",
+              "ToolTip": "C:\\thetourguy\\InterviewTask\\InterviewTask\\DataProviders\\Models\\TheTourGuyModel.cs",
+              "RelativeToolTip": "InterviewTask\\DataProviders\\Models\\TheTourGuyModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwCIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:58:47.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductResponse.cs",
+              "DocumentMoniker": "C:\\thetourguy\\InterviewTask\\InterviewTask\\DataProviders\\Models\\ProductResponse.cs",
+              "RelativeDocumentMoniker": "InterviewTask\\DataProviders\\Models\\ProductResponse.cs",
+              "ToolTip": "C:\\thetourguy\\InterviewTask\\InterviewTask\\DataProviders\\Models\\ProductResponse.cs",
+              "RelativeToolTip": "InterviewTask\\DataProviders\\Models\\ProductResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:58:21.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\thetourguy\\InterviewTask\\InterviewTask\\appsettings.json",
+              "RelativeDocumentMoniker": "InterviewTask\\appsettings.json",
+              "ToolTip": "C:\\thetourguy\\InterviewTask\\InterviewTask\\appsettings.json",
+              "RelativeToolTip": "InterviewTask\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-23T11:54:54.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\thetourguy\\InterviewTask\\InterviewTask\\Program.cs",
+              "RelativeDocumentMoniker": "InterviewTask\\Program.cs",
+              "ToolTip": "C:\\thetourguy\\InterviewTask\\InterviewTask\\Program.cs",
+              "RelativeToolTip": "InterviewTask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:54:47.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchModel.cs",
+              "DocumentMoniker": "C:\\thetourguy\\InterviewTask\\InterviewTask\\Models\\SearchModel.cs",
+              "RelativeDocumentMoniker": "InterviewTask\\Models\\SearchModel.cs",
+              "ToolTip": "C:\\thetourguy\\InterviewTask\\InterviewTask\\Models\\SearchModel.cs",
+              "RelativeToolTip": "InterviewTask\\Models\\SearchModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:13:08.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\thetourguy\\InterviewTask\\InterviewTask\\BLL\\Extensions.cs",
+              "RelativeDocumentMoniker": "InterviewTask\\BLL\\Extensions.cs",
+              "ToolTip": "C:\\thetourguy\\InterviewTask\\InterviewTask\\BLL\\Extensions.cs",
+              "RelativeToolTip": "InterviewTask\\BLL\\Extensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:10:55.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITourService.cs",
+              "DocumentMoniker": "C:\\thetourguy\\InterviewTask\\InterviewTask\\BLL\\Contract\\ITourService.cs",
+              "RelativeDocumentMoniker": "InterviewTask\\BLL\\Contract\\ITourService.cs",
+              "ToolTip": "C:\\thetourguy\\InterviewTask\\InterviewTask\\BLL\\Contract\\ITourService.cs",
+              "RelativeToolTip": "InterviewTask\\BLL\\Contract\\ITourService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:07:40.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\thetourguy\\InterviewTask\\InterviewTask\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "InterviewTask\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\thetourguy\\InterviewTask\\InterviewTask\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "InterviewTask\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:07:22.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SomeOtherGuyModel.cs",
+              "DocumentMoniker": "C:\\thetourguy\\InterviewTask\\InterviewTask\\DataProviders\\Models\\SomeOtherGuyModel.cs",
+              "RelativeDocumentMoniker": "InterviewTask\\DataProviders\\Models\\SomeOtherGuyModel.cs",
+              "ToolTip": "C:\\thetourguy\\InterviewTask\\InterviewTask\\DataProviders\\Models\\SomeOtherGuyModel.cs",
+              "RelativeToolTip": "InterviewTask\\DataProviders\\Models\\SomeOtherGuyModel.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwBMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:02:18.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TheBigGuyModel.cs",
+              "DocumentMoniker": "C:\\thetourguy\\InterviewTask\\InterviewTask\\DataProviders\\Models\\TheBigGuyModel.cs",
+              "RelativeDocumentMoniker": "InterviewTask\\DataProviders\\Models\\TheBigGuyModel.cs",
+              "ToolTip": "C:\\thetourguy\\InterviewTask\\InterviewTask\\DataProviders\\Models\\TheBigGuyModel.cs",
+              "RelativeToolTip": "InterviewTask\\DataProviders\\Models\\TheBigGuyModel.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:58:58.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "C:\\thetourguy\\InterviewTask\\InterviewTask\\DataProviders\\Implementation\\DataProvider.cs",
+              "RelativeDocumentMoniker": "InterviewTask\\DataProviders\\Implementation\\DataProvider.cs",
+              "ToolTip": "C:\\thetourguy\\InterviewTask\\InterviewTask\\DataProviders\\Implementation\\DataProvider.cs",
+              "RelativeToolTip": "InterviewTask\\DataProviders\\Implementation\\DataProvider.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAjwAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:46:17.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDataProvider.cs",
+              "DocumentMoniker": "C:\\thetourguy\\InterviewTask\\InterviewTask\\DataProviders\\Contract\\IDataProvider.cs",
+              "RelativeDocumentMoniker": "InterviewTask\\DataProviders\\Contract\\IDataProvider.cs",
+              "ToolTip": "C:\\thetourguy\\InterviewTask\\InterviewTask\\DataProviders\\Contract\\IDataProvider.cs",
+              "RelativeToolTip": "InterviewTask\\DataProviders\\Contract\\IDataProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:45:43.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TourService.cs",
+              "DocumentMoniker": "C:\\thetourguy\\InterviewTask\\InterviewTask\\BLL\\Implementation\\TourService.cs",
+              "RelativeDocumentMoniker": "InterviewTask\\BLL\\Implementation\\TourService.cs",
+              "ToolTip": "C:\\thetourguy\\InterviewTask\\InterviewTask\\BLL\\Implementation\\TourService.cs",
+              "RelativeToolTip": "InterviewTask\\BLL\\Implementation\\TourService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:45:03.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
